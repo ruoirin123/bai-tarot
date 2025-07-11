@@ -1,0 +1,136 @@
+{
+  "cards": [
+    {
+      "name": "Kẻ Khờ",
+      "meaning": "Khởi đầu mới, sự ngây thơ, tự phát, một bước nhảy vọt của đức tin.",
+      "imageURL": "/tarot-images/the-fool.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Pháp Sư",
+      "meaning": "Kỹ năng, biểu hiện, tháo vát, quyền lực.",
+      "imageURL": "/tarot-images/the-magician.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Nữ Tư Tế Tối Cao",
+      "meaning": "Trực giác, kiến thức thiêng liêng, nữ tính thiêng liêng, bí ẩn.",
+      "imageURL": "/tarot-images/the-high-priestess.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Nữ Hoàng",
+      "meaning": "Sự phong phú, nuôi dưỡng, sinh sản, thiên nhiên.",
+      "imageURL": "/tarot-images/the-empress.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Hoàng Đế",
+      "meaning": "Quyền uy, cấu trúc, kiểm soát, lãnh đạo.",
+      "imageURL": "/tarot-images/the-emperor.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Giáo Hoàng",
+      "meaning": "Truyền thống, thể chế, tâm linh, hướng dẫn.",
+      "imageURL": "/tarot-images/the-hierophant.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Đôi Tình Nhân",
+      "meaning": "Tình yêu, hòa hợp, lựa chọn, quan hệ đối tác.",
+      "imageURL": "/tarot-images/the-lovers.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Cỗ Xe",
+      "meaning": "Ý chí, kiểm soát, thành công, khẳng định.",
+      "imageURL": "/tarot-images/the-chariot.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Sức Mạnh",
+      "meaning": "Can đảm, lòng trắc ẩn, sức mạnh nội tại, ảnh hưởng.",
+      "imageURL": "/tarot-images/strength.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Ẩn Sĩ",
+      "meaning": "Nội tâm, cô độc, hướng dẫn, tự khám phá.",
+      "imageURL": "/tarot-images/the-hermit.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Bánh Xe Vận Mệnh",
+      "meaning": "Chu kỳ, định mệnh, thay đổi, may mắn.",
+      "imageURL": "/tarot-images/wheel-of-fortune.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Công Lý",
+      "meaning": "Công bằng, sự thật, trách nhiệm, pháp luật.",
+      "imageURL": "/tarot-images/justice.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Người Treo Ngược",
+      "meaning": "Hy sinh, đầu hàng, góc nhìn mới, buông bỏ.",
+      "imageURL": "/tarot-images/the-hanged-man.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Cái Chết",
+      "meaning": "Kết thúc, biến đổi, thay đổi, chuyển tiếp.",
+      "imageURL": "/tarot-images/death.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Tiết Độ",
+      "meaning": "Cân bằng, điều độ, kiên nhẫn, mục đích.",
+      "imageURL": "/tarot-images/temperance.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Ác Quỷ",
+      "meaning": "Chủ nghĩa vật chất, nghiện ngập, hạn chế, bóng tối.",
+      "imageURL": "/tarot-images/the-devil.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Tháp",
+      "meaning": "Thay đổi đột ngột, biến động, hỗn loạn, khải thị.",
+      "imageURL": "/tarot-images/the-tower.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Ngôi Sao",
+      "meaning": "Hy vọng, đức tin, đổi mới, cảm hứng.",
+      "imageURL": "/tarot-images/the-star.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Mặt Trăng",
+      "meaning": "Trực giác, ảo tưởng, sợ hãi, tiềm thức.",
+      "imageURL": "/tarot-images/the-moon.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Mặt Trời",
+      "meaning": "Niềm vui, thành công, sức sống, tích cực.",
+      "imageURL": "/tarot-images/the-sun.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Phán Xét",
+      "meaning": "Tái sinh, thức tỉnh, đổi mới, tha thứ.",
+      "imageURL": "/tarot-images/judgement.png",
+      "cardBack": "/card-back.png"
+    },
+    {
+      "name": "Thế Giới",
+      "meaning": "Hoàn thành, hòa nhập, du lịch, thành tựu.",
+      "imageURL": "/tarot-images/the-world.png",
+      "cardBack": "/card-back.png"
+    }
+  ]
+}
